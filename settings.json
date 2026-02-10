@@ -1,0 +1,18 @@
+{
+    "ide": {
+        "hasSeenNudge": true
+    },
+    "mcpServers": {
+        "opendart-remote": {
+            "httpUrl": "https://opendart-mcp-server-$PROJECT_NUMBER.us-central1.run.app/mcp",
+            "headers": {
+                "Authorization": "Bearer $ID_TOKEN"
+            }
+        }
+    },
+    "security": {
+        "auth": {
+            "selectedType": "gemini-api-key"
+        }
+    }
+}
