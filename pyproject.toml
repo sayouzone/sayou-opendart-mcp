@@ -25,10 +25,10 @@ dependencies = [
 # -----------------
 [project.urls]
 "Homepage" = "https://www.sayouzone.com/"
-"Repository" = "https://github.com/sayouzone/sayou-XXXXXX"
+"Repository" = "https://github.com/sayouzone/sayou-opendart-mcp"
 
 # -----------------
 # 3. 소스 코드 위치
 # -----------------
 [tool.hatch.build.targets.wheel]
-packages = [""]
+packages = ["."]
