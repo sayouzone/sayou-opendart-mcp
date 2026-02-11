@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.sayouzone/mcp-opendart-server",
+  "name": "io.github.kcw2034-sayouzone/mcp-opendart-server",
   "description": "An MCP server that provides OpenDart API",
   "repository": {
     "url": "https://github.com/sayouzone/mcp-opendart-server",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "sayou-opendart-mcp",
-      "version": "1.0.0",
+      "version": "0.0.1",
       "transport": {
         "type": "stdio"
       },

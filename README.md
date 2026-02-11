@@ -1,5 +1,7 @@
 # OpenDart MCP Server
 
+mcp-name: io.github.kcw2034-sayouzone/mcp-opendart-server
+
 OpenDart Crawling and Caching MCP Server<br/>
 
 주식 정보를 `OpenDart`에서 종목 기본 정보 (펀더멘탈, fundamental)를 가져온다.
