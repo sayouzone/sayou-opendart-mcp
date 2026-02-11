@@ -1,6 +1,6 @@
 [project]
 name = "sayou-opendart-mcp"
-version = "0.0.1"
+version = "0.0.2"
 description = "OpenDart MCP server"
 authors = [
     { name = "Sayouzone", email = "cksdn2034@sayouzone.com" }

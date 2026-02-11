@@ -6,7 +6,7 @@
     "url": "https://github.com/sayouzone/mcp-opendart-server",
     "source": "github"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packages": [
     {
       "registryType": "pypi",
